@@ -22,9 +22,9 @@ keywords: zhaoo, hexo-theme-zhaoo
 preview:
   enable: true
   model: wave  #cloud
-  welcome_image: /images/theme/welcome-image.jpg
+  welcome_image: /images/theme/wel.jpg
   motto:
-    default: 我在开了灯的床头下，想问问自己的心啊。
+    default: 
     api:  #'http://localhost:3000/api/motto'
 
 # Menu
@@ -41,11 +41,9 @@ copyright: <p>Copyright© 2019-2020 | <a target="_blank" href="https://www.izhao
 
 # Social
 social:
-  qq: tencent://message/?Menu=yes&uin=894519210 || iconQQ || '#12B7F5'
-  wechat: javascript:; || iconwechat-fill || '#09BB07'
-  instagram: https://www.instagram.com/izhaoo/ || iconinstagram || '#DA2E76'
-  github: https://github.com/izhaoo || icongithub-fill || '#24292E'
-  email: mailto:izhaoo@163.com || iconmail
+  qq: tencent://message/?Menu=yes&uin=906205727 || iconQQ || '#12B7F5'
+  wechat: /images/theme/wx1.jpg || iconwechat-fill || '#09BB07'
+  email: mailto:906205727@qq.com || iconmail
 
 # Fab (FloatActionButton)
 fab:
@@ -57,12 +55,13 @@ fab:
 # --------------------------------------------------
 
 # Post image
-post_image: /images/theme/post-image.jpg
+post_image: /images/theme/1.jpg
+
 
 # Donate
 donate:
-  alipay: https://pic.izhaoo.com/alipay.jpg
-  wechat: https://pic.izhaoo.com/wechat.jpg
+  alipay: /images/theme/zfb.jpg
+  wechat: /images/theme/wx.jpg
 
 # --------------------------------------------------
 # Page settings
