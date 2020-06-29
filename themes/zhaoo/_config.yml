@@ -22,9 +22,9 @@ keywords: zhaoo, hexo-theme-zhaoo
 preview:
   enable: true
   model: wave  #cloud
-  welcome_image: /images/theme/wel.jpg
+  welcome_image: /images/theme/W.GIF
   motto:
-    default: 
+    default: 你好
     api:  #'http://localhost:3000/api/motto'
 
 # Menu
@@ -55,7 +55,7 @@ fab:
 # --------------------------------------------------
 
 # Post image
-post_image: /images/theme/1.jpg
+post_image: /images/theme/post.jpg
 
 
 # Donate
